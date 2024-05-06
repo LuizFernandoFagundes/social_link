@@ -1,0 +1,73 @@
+body{
+    background-color: var(--Off-Black);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    padding: 0 24px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 100%;
+    background-color: var(--Dark-Grey);
+    border-radius: 10px;
+    font-family: "Inter", sans-serif;
+    padding: 20px 20px;
+
+}
+
+.container img{
+   border-radius: 50%;
+   width: 100px;
+   height: 100px;
+   margin-bottom: 10px;
+   
+}
+
+.container .nome{
+    color: var(--White);
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26.5px;
+    margin-bottom: 10px;
+}
+
+.container .city{
+    color:var(--Green);
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 24.5px;
+    margin-bottom: 10px;
+}
+
+.container .proficao{
+    color: var(--White);
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 23.5px;
+    margin-bottom: 10px;;
+}
+.container .item{
+     text-align: center;
+     color: var(--White);
+     width: 250px;
+}
+.container .item .itens{
+    padding: 10px;
+    margin-bottom: 5px;
+    background-color: var(--Grey);
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: 400;
+    
+}
+.container .item .itens:hover{
+    background-color: var(--Green);
+    color: var(--Grey);
+    cursor: pointer;
+}
