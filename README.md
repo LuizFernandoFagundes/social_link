@@ -1,4 +1,4 @@
-# Frontend Mentor - Blog preview card solution
+# Frontend Mentor - Social Link Profile solution
 
 Esta é uma solução para o [Social links profile no Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação através da construção de projetos realistas.
 
@@ -32,17 +32,18 @@ Você pode usar qualquer ferramenta que desejar para ajudá-lo a completar o des
 
 ### Links
 
-- URL da solução: [Adicione o URL da solução aqui](https://github.com/LuizFernandoFagundes/card-details-form)
-- URL do site ativo: [Adicione o URL do site ativo aqui](https://luizfernandofagundes.github.io/card-details-form/)
+- URL da solução: [Adicione o URL da solução aqui](https://github.com/LuizFernandoFagundes/social_link)
+- URL do site ativo: [Adicione o URL do site ativo aqui](https://luizfernandofagundes.github.io/social_link/)
 
 ## Meu processo
-
+- Primeiro passo, foi criar uma estrutura em HTML, utilizando um container para envolver todo o conteudo.
+- Logo após a criação da estrutura, foi feito a utilização de CSS3 para dar o estilo. 
 ### Construído com
 
 - Marcação HTML5 semântica
 - Propriedades personalizadas CSS
 - Caixa flexível
-- JavaScript
+
 
 
 
@@ -53,6 +54,6 @@ Você pode usar qualquer ferramenta que desejar para ajudá-lo a completar o des
 
 ## Agradecimentos
 
-Gostaria de agradecer aos professores do curso devQuest, e ao incrivél tipo de suporte, sem eles não seria possível a conclusão desse desafio.
-com o conteudo muito bem explicado e com as aulas extremamente incriveis, pude chegar até aqui.
+Gostaria de agradecer aos professores do curso devQuest, e ao incrivél time de suporte, sem eles não seria possível a conclusão desse desafio.
+Com o conteudo muito bem explicado e com as aulas extremamente incriveis, pude chegar até aqui.
 Quero expressar minha sincera gratidão por todo o apoio e incentivo que vocês tem me dado.
